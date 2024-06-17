@@ -19,13 +19,13 @@ Basic features for the animation portion of the requirements include implementat
 For this project I mostly used the materials provided to us through course notes, and from previous recitations, to be more specific recitations 7, 8, and 9 (Poovvancheri, 2023). One other additional source I used was the link provided in the assignment 2 section on the github wiki page, and this source was used to implement the algorithms for the different noise functions such as fractional Brownian Noise, hybrid multi fractal, and domain distorted fractional Browian noise or ‘warped fBm’ (Musgrave, n.d.). The picture provided on this report uses the ‘warped fBm’ noise function, but there is code in the terrain vertex shader to swap between the fBm, hybrid multi fractal, and ‘warped fBm’ noise functions, all that needs to be done is to comment and uncomment the code depending on what noise function you would like to use.
 
 ## References
-Musgrave F.K.(n.d.).Procedural Fractal Terrains: 2.3 procedural fbm.Retrieved from https://www.classes.cs.uchicago.edu/archive/2015/fall/23700-1/final-project/MusgraveTerrain00.pdf
-Musgrave F.K.(n.d.).Procedural Fractal Terrains: 2.4 heterogenous fbm.Retrieved from https://www.classes.cs.uchicago.edu/archive/2015/fall/23700-1/final-project/MusgraveTerrain00.pdf
-Musgrave F.K.(n.d.).Procedural Fractal Terrains: 2.5 warped terrains: domain distortion.Retrieved from https://www.classes.cs.uchicago.edu/archive/2015/fall/23700-1/final-project/MusgraveTerrain00.pdf
-Poovvancheri J.(2023).Introduction to computer graphics: OpenGL textures.
-Poovvancheri J.(2023).Introduction to computer graphics: frame buffer objects.
-Poovvancheri j.(2023).GraphicsLab: wiki: recitation 07 perlin noise. Retrieved from https://github.com/jijup/GraphicsLab/wiki/Recitation-07-Perlin-Noise
-Poovvancheri j.(2023).GraphicsLab: wiki: recitation 08 terrain and water(framebuffer). Retrieved from https://github.com/jijup/GraphicsLab/wiki/Recitation-08-Terrain-and-Water(FrameBuffer)
-Poovvancheri j.(2023).GraphicsLab: wiki: recitation 09 mesh texturing. Retrieved from https://github.com/jijup/GraphicsLab/wiki/Recitation-09-Mesh-Texturing
+- Musgrave F.K.(n.d.).Procedural Fractal Terrains: 2.3 procedural fbm.Retrieved from (https://www.classes.cs.uchicago.edu/archive/2015/fall/23700-1/final-project/MusgraveTerrain00.pdf)
+- Musgrave F.K.(n.d.).Procedural Fractal Terrains: 2.4 heterogenous fbm.Retrieved from (https://www.classes.cs.uchicago.edu/archive/2015/fall/23700-1/final-project/MusgraveTerrain00.pdf)
+- Musgrave F.K.(n.d.).Procedural Fractal Terrains: 2.5 warped terrains: domain distortion.Retrieved from (https://www.classes.cs.uchicago.edu/archive/2015/fall/23700-1/final-project/MusgraveTerrain00.pdf)
+- Poovvancheri J.(2023).Introduction to computer graphics: OpenGL textures.
+- Poovvancheri J.(2023).Introduction to computer graphics: frame buffer objects.
+- Poovvancheri j.(2023).GraphicsLab: wiki: recitation 07 perlin noise. Retrieved from (https://github.com/jijup/GraphicsLab/wiki/Recitation-07-Perlin-Noise)
+- Poovvancheri j.(2023).GraphicsLab: wiki: recitation 08 terrain and water(framebuffer). Retrieved from (https://github.com/jijup/GraphicsLab/wiki/Recitation-08-Terrain-and-Water(FrameBuffer))
+- Poovvancheri j.(2023).GraphicsLab: wiki: recitation 09 mesh texturing. Retrieved from (https://github.com/jijup/GraphicsLab/wiki/Recitation-09-Mesh-Texturing)
 
 
