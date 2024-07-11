@@ -4,6 +4,9 @@ Procedural terrain generation using fundamentals learned in a Computer Graphics 
 
 This project uses fundamentals learned from class as well as external sources to generate procedural terrains using C++ and OpenGL. The project follows the core requirements of producing procedural terrains using the requirements for geometry, rendering, and animation along with implementing a few advanced features such as hybrid multifractal noise and infinite world generation.
 
+## Wiki
+Detailed instructions on how to run the program on your own machine are provided in the (Wiki)[https://github.com/riley-okeefe/ProceduralTerrains/wiki/Development-Environment-Setup].
+
 ## Geometry Requirements
 Basic features implemented for the geometry portion of the requirements include the creation of a flat triangle mesh in Terrain.h making use of OpenGLs GL_TRIANGLE_STRIP and GL_PRIMITIVE_RESTART, generation of a heightmap using fractional Browian motion, and use of the height map to displace the grid vertices.
 Advanced features include the use of alternate noise functions such as hybrid multifractal noise function, and a ‘warped fBm’ noise function along with the creation of an infinite world via noise generation on the GPU (Musgrave, n.d.).
